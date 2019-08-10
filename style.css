@@ -1,3 +1,11 @@
-style{
-    
+header {
+
+    background-color:blue;
+}
+
+#button {
+height:50px;
+width:100px;
+float: right;
+
 }
